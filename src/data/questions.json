@@ -1,0 +1,1130 @@
+[
+  {
+    "id": 1,
+    "prompt": "Name Something in a Bakery a Baker Might Call His Wife",
+    "answers": [
+      {
+        "text": "Honey/Buns",
+        "points": 32
+      },
+      {
+        "text": "His Oven",
+        "points": 9
+      },
+      {
+        "text": "Sweet/Sweetie",
+        "points": 9
+      },
+      {
+        "text": "Cupcake",
+        "points": 8
+      },
+      {
+        "text": "Muffin",
+        "points": 7
+      },
+      {
+        "text": "Sugar",
+        "points": 5
+      },
+      {
+        "text": "Donut",
+        "points": 5
+      },
+      {
+        "text": "Doughy",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "prompt": "Name Something In A Person's Closet That Only Comes Out on Special Occasions",
+    "answers": [
+      {
+        "text": "Suit/Tux",
+        "points": 35
+      },
+      {
+        "text": "Dress",
+        "points": 26
+      },
+      {
+        "text": "Jewelry",
+        "points": 10
+      },
+      {
+        "text": "Dress Shoes",
+        "points": 6
+      },
+      {
+        "text": "Shotgun",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "prompt": "If You Could Go to the Land of Oz, What Would You Ask the Wizard For?",
+    "answers": [
+      {
+        "text": "Money",
+        "points": 37
+      },
+      {
+        "text": "Health/A New Heart",
+        "points": 17
+      },
+      {
+        "text": "A Brain",
+        "points": 7
+      },
+      {
+        "text": "Hot Bod",
+        "points": 5
+      },
+      {
+        "text": "Peace on Earth",
+        "points": 4
+      },
+      {
+        "text": "Love",
+        "points": 4
+      },
+      {
+        "text": "Happiness",
+        "points": 4
+      },
+      {
+        "text": "Magic Power/To Fly",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "prompt": "Name an Occasion for Which You Might Wear Your Lucky Underwear",
+    "answers": [
+      {
+        "text": "Hot Date",
+        "points": 30
+      },
+      {
+        "text": "Job Interview",
+        "points": 16
+      },
+      {
+        "text": "Casino/Gambling",
+        "points": 11
+      },
+      {
+        "text": "Sporting Event",
+        "points": 9
+      },
+      {
+        "text": "Wedding/Night",
+        "points": 7
+      },
+      {
+        "text": "Anniversary",
+        "points": 5
+      },
+      {
+        "text": "Valentine's Day",
+        "points": 4
+      },
+      {
+        "text": "Exam/Finals",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "prompt": "If There Was A Store That Only Sold Husbands, Most People Would Try to Buy One With What?",
+    "answers": [
+      {
+        "text": "Job",
+        "points": 24
+      },
+      {
+        "text": "Personality/Humor",
+        "points": 15
+      },
+      {
+        "text": "Warranty/Guarantee",
+        "points": 14
+      },
+      {
+        "text": "Heart/Character",
+        "points": 12
+      },
+      {
+        "text": "Bank Account",
+        "points": 10
+      },
+      {
+        "text": "Bod/Butt",
+        "points": 9
+      },
+      {
+        "text": "Head of Hair",
+        "points": 3
+      },
+      {
+        "text": "Brain",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "prompt": "Name a Type of Insurance",
+    "answers": [
+      {
+        "text": "Car",
+        "points": 28
+      },
+      {
+        "text": "Health/Dental",
+        "points": 22
+      },
+      {
+        "text": "Life",
+        "points": 15
+      },
+      {
+        "text": "Home",
+        "points": 10
+      },
+      {
+        "text": "Renter's",
+        "points": 8
+      },
+      {
+        "text": "Flood",
+        "points": 6
+      },
+      {
+        "text": "Travel",
+        "points": 4
+      },
+      {
+        "text": "Blackjack",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "prompt": "Name an Occupation That Begins With the Letter \"J\"",
+    "answers": [
+      {
+        "text": "Janitor",
+        "points": 62
+      },
+      {
+        "text": "Judge/Justice",
+        "points": 19
+      },
+      {
+        "text": "Jeweler",
+        "points": 5
+      },
+      {
+        "text": "Jockey",
+        "points": 4
+      },
+      {
+        "text": "Journalist",
+        "points": 4
+      },
+      {
+        "text": "Juggler",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "prompt": "Name Something That Has to Be Licked",
+    "answers": [
+      {
+        "text": "Lollipop",
+        "points": 33
+      },
+      {
+        "text": "Ice Cream/Cone",
+        "points": 32
+      },
+      {
+        "text": "Stamp",
+        "points": 11
+      },
+      {
+        "text": "Popsicle",
+        "points": 10
+      },
+      {
+        "text": "Envelope",
+        "points": 9
+      },
+      {
+        "text": "Your Lips",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "prompt": "Other Than Feet, Name Something That Runs",
+    "answers": [
+      {
+        "text": "Water/Toilet",
+        "points": 37
+      },
+      {
+        "text": "Engine/Car",
+        "points": 24
+      },
+      {
+        "text": "Refrigerator",
+        "points": 10
+      },
+      {
+        "text": "Nose",
+        "points": 8
+      },
+      {
+        "text": "Pantyhose",
+        "points": 8
+      },
+      {
+        "text": "Clock",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "prompt": "Name Something You Did Every Day in Kindergarten That You Wish You Could Do Every Day Now",
+    "answers": [
+      {
+        "text": "Nap",
+        "points": 64
+      },
+      {
+        "text": "Play/Toys/Recess",
+        "points": 19
+      },
+      {
+        "text": "Color/Paint",
+        "points": 12
+      },
+      {
+        "text": "Get Free Snacks",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "prompt": "Name Something You Hang Up",
+    "answers": [
+      {
+        "text": "The Phone",
+        "points": 54
+      },
+      {
+        "text": "Clothes/Coat/Hat",
+        "points": 38
+      },
+      {
+        "text": "A Towel",
+        "points": 4
+      },
+      {
+        "text": "A Picture/Frame",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "prompt": "Besides a Person, Name Something People Hug",
+    "answers": [
+      {
+        "text": "Pets",
+        "points": 53
+      },
+      {
+        "text": "Pillow",
+        "points": 25
+      },
+      {
+        "text": "Teddy Bear",
+        "points": 13
+      },
+      {
+        "text": "Trees",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "prompt": "Name Something That Gets Shredded",
+    "answers": [
+      {
+        "text": "Documents/Paper",
+        "points": 57
+      },
+      {
+        "text": "Cheese",
+        "points": 19
+      },
+      {
+        "text": "Lettuce",
+        "points": 18
+      },
+      {
+        "text": "Wheat",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "prompt": "Name the Qualities of a Bad Boss/Manager",
+    "answers": [
+      {
+        "text": "They Micromanage",
+        "points": 35
+      },
+      {
+        "text": "They Pick and Choose Their Favorites",
+        "points": 20
+      },
+      {
+        "text": "They're Incompetent",
+        "points": 18
+      },
+      {
+        "text": "They Steal Credit for Your Work",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "prompt": "Name the Hardest Subject in School",
+    "answers": [
+      {
+        "text": "Math",
+        "points": 66
+      },
+      {
+        "text": "Science",
+        "points": 17
+      },
+      {
+        "text": "English",
+        "points": 13
+      },
+      {
+        "text": "History",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "prompt": "Name a City People Might Visit on a Dream Vacation",
+    "answers": [
+      {
+        "text": "Paris",
+        "points": 58
+      },
+      {
+        "text": "Rome",
+        "points": 30
+      },
+      {
+        "text": "New York",
+        "points": 8
+      },
+      {
+        "text": "Tokyo",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "prompt": "Name a Flying Mode of Transportation That Isn't an Airplane",
+    "answers": [
+      {
+        "text": "Helicopter",
+        "points": 54
+      },
+      {
+        "text": "Blimp",
+        "points": 26
+      },
+      {
+        "text": "Hot Air Balloon",
+        "points": 13
+      },
+      {
+        "text": "Spaceship/Rocket",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "prompt": "Name Something Adults Are Likely to Complain About",
+    "answers": [
+      {
+        "text": "Work",
+        "points": 43
+      },
+      {
+        "text": "Money/Bills",
+        "points": 31
+      },
+      {
+        "text": "Spouse",
+        "points": 16
+      },
+      {
+        "text": "Politics",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "prompt": "Name something that can be inflated or deflated.",
+    "answers": [
+      {
+        "text": "Balloon",
+        "points": 44
+      },
+      {
+        "text": "Tire",
+        "points": 25
+      },
+      {
+        "text": "Beach ball",
+        "points": 10
+      },
+      {
+        "text": "Ego",
+        "points": 7
+      },
+      {
+        "text": "Raft",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "prompt": "Name something that might be full of holes.",
+    "answers": [
+      {
+        "text": "Swiss Cheese",
+        "points": 40
+      },
+      {
+        "text": "Clothes/Socks",
+        "points": 16
+      },
+      {
+        "text": "Alibi/Story",
+        "points": 14
+      },
+      {
+        "text": "Net/Fishing Net",
+        "points": 9
+      },
+      {
+        "text": "Colander/Strainer",
+        "points": 8
+      },
+      {
+        "text": "Golf Course",
+        "points": 2
+      },
+      {
+        "text": "Screen",
+        "points": 2
+      },
+      {
+        "text": "Road/Street",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "prompt": "Name something with teeth.",
+    "answers": [
+      {
+        "text": "Animals",
+        "points": 66
+      },
+      {
+        "text": "People",
+        "points": 19
+      },
+      {
+        "text": "A Comb",
+        "points": 8
+      },
+      {
+        "text": "A Zipper",
+        "points": 4
+      },
+      {
+        "text": "A Saw",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "prompt": "Name an animal that's easy to imitate in charades.",
+    "answers": [
+      {
+        "text": "Monkey/ape",
+        "points": 32
+      },
+      {
+        "text": "Dog",
+        "points": 21
+      },
+      {
+        "text": "Cat",
+        "points": 16
+      },
+      {
+        "text": "Bird",
+        "points": 14
+      },
+      {
+        "text": "Elephant",
+        "points": 4
+      },
+      {
+        "text": "Kangaroo",
+        "points": 4
+      },
+      {
+        "text": "Rabbit",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "prompt": "Tell me something of yours that you swear is possessed.",
+    "answers": [
+      {
+        "text": "Children",
+        "points": 16
+      },
+      {
+        "text": "Car",
+        "points": 14
+      },
+      {
+        "text": "House",
+        "points": 10
+      },
+      {
+        "text": "Pet",
+        "points": 10
+      },
+      {
+        "text": "Computer",
+        "points": 9
+      },
+      {
+        "text": "Myself",
+        "points": 8
+      },
+      {
+        "text": "Cellphone",
+        "points": 5
+      },
+      {
+        "text": "Spouse",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "prompt": "Name a reason someone might pretend to be asleep.",
+    "answers": [
+      {
+        "text": "To avoid doing the dishes",
+        "points": 30
+      },
+      {
+        "text": "Dodging a phone call",
+        "points": 25
+      },
+      {
+        "text": "Escaping a conversation",
+        "points": 20
+      },
+      {
+        "text": "Evading household chores",
+        "points": 15
+      },
+      {
+        "text": "Faking it during a boring meeting",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "prompt": "Name a place you would never want to hear someone say, \"Oops!\"",
+    "answers": [
+      {
+        "text": "Operating room",
+        "points": 35
+      },
+      {
+        "text": "On an airplane",
+        "points": 25
+      },
+      {
+        "text": "Nuclear power plant",
+        "points": 20
+      },
+      {
+        "text": "In a library",
+        "points": 10
+      },
+      {
+        "text": "During a job interview",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "prompt": "Name something you'd find in a superhero's laundry basket.",
+    "answers": [
+      {
+        "text": "Cape with dry cleaning tag",
+        "points": 30
+      },
+      {
+        "text": "Spandex costume",
+        "points": 25
+      },
+      {
+        "text": "Utility belt",
+        "points": 20
+      },
+      {
+        "text": "Mask with eye holes cut out",
+        "points": 15
+      },
+      {
+        "text": "Invisible socks",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "prompt": "There is a dead body in the house. What do you do with it?",
+    "answers": [
+      {
+        "text": "Bury it",
+        "points": 28
+      },
+      {
+        "text": "Hide it in the fridge",
+        "points": 18
+      },
+      {
+        "text": "Call cops anyway",
+        "points": 11
+      },
+      {
+        "text": "Leave it/don't touch",
+        "points": 10
+      },
+      {
+        "text": "Burn it",
+        "points": 7
+      },
+      {
+        "text": "Take to neighbor's",
+        "points": 7
+      },
+      {
+        "text": "Toss in lake",
+        "points": 5
+      },
+      {
+        "text": "Trash/dumpster",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "prompt": "Name a reason that men give for going bald.",
+    "answers": [
+      {
+        "text": "Stress",
+        "points": 31
+      },
+      {
+        "text": "Virility",
+        "points": 18
+      },
+      {
+        "text": "Hereditary",
+        "points": 14
+      },
+      {
+        "text": "Old Age",
+        "points": 12
+      },
+      {
+        "text": "Intelligence",
+        "points": 8
+      },
+      {
+        "text": "Wife",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "prompt": "Name something you'd wish grew on trees.",
+    "answers": [
+      {
+        "text": "Money",
+        "points": 35
+      },
+      {
+        "text": "Pizza",
+        "points": 25
+      },
+      {
+        "text": "Chocolate",
+        "points": 20
+      },
+      {
+        "text": "Clean laundry",
+        "points": 10
+      },
+      {
+        "text": "Wi-Fi signals",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "prompt": "Name a popular wedding gift.",
+    "answers": [
+      {
+        "text": "Toaster",
+        "points": 24
+      },
+      {
+        "text": "Money",
+        "points": 22
+      },
+      {
+        "text": "Chinaware",
+        "points": 17
+      },
+      {
+        "text": "Silverware",
+        "points": 8
+      },
+      {
+        "text": "Crystal",
+        "points": 6
+      },
+      {
+        "text": "Blender",
+        "points": 3
+      },
+      {
+        "text": "Candle",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "prompt": "Name something that has the word \"super\" in it.",
+    "answers": [
+      {
+        "text": "Superman",
+        "points": 47
+      },
+      {
+        "text": "Super bowl",
+        "points": 9
+      },
+      {
+        "text": "Supermarket",
+        "points": 9
+      },
+      {
+        "text": "Super glue",
+        "points": 6
+      },
+      {
+        "text": "Superintendent",
+        "points": 6
+      },
+      {
+        "text": "Supersize",
+        "points": 5
+      },
+      {
+        "text": "Superstar",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "prompt": "If your cell phone rings while you're at church, who had better be calling?",
+    "answers": [
+      {
+        "text": "The Lord",
+        "points": 61
+      },
+      {
+        "text": "My kids",
+        "points": 10
+      },
+      {
+        "text": "My mother",
+        "points": 10
+      },
+      {
+        "text": "My sibling",
+        "points": 4
+      },
+      {
+        "text": "My spouse",
+        "points": 3
+      },
+      {
+        "text": "My boss",
+        "points": 3
+      },
+      {
+        "text": "The doctor",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "prompt": "Name something you'd hate to discover had expired.",
+    "answers": [
+      {
+        "text": "Driver's license",
+        "points": 37
+      },
+      {
+        "text": "Milk",
+        "points": 18
+      },
+      {
+        "text": "Credit card",
+        "points": 12
+      },
+      {
+        "text": "Insurance",
+        "points": 7
+      },
+      {
+        "text": "Car registration",
+        "points": 5
+      },
+      {
+        "text": "My own life",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "prompt": "Name something you might catch up on.",
+    "answers": [
+      {
+        "text": "Reading",
+        "points": 30
+      },
+      {
+        "text": "Sleep",
+        "points": 29
+      },
+      {
+        "text": "Bills",
+        "points": 9
+      },
+      {
+        "text": "Housework/Chores",
+        "points": 8
+      },
+      {
+        "text": "Soap Opera/TV",
+        "points": 6
+      },
+      {
+        "text": "Work",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "prompt": "Name something people take out.",
+    "answers": [
+      {
+        "text": "Trash",
+        "points": 40
+      },
+      {
+        "text": "Food",
+        "points": 31
+      },
+      {
+        "text": "Money/Loan",
+        "points": 9
+      },
+      {
+        "text": "Dog/Pet",
+        "points": 8
+      },
+      {
+        "text": "Spouse/Mate",
+        "points": 5
+      },
+      {
+        "text": "Library books",
+        "points": 2
+      },
+      {
+        "text": "Life insurance",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "prompt": "Name something you'd skip if you were late for work.",
+    "answers": [
+      {
+        "text": "Breakfast/Coffee",
+        "points": 80
+      },
+      {
+        "text": "Taking shower",
+        "points": 6
+      },
+      {
+        "text": "Answering phone",
+        "points": 3
+      },
+      {
+        "text": "Brushing teeth",
+        "points": 3
+      },
+      {
+        "text": "News/Newspaper",
+        "points": 2
+      },
+      {
+        "text": "Putting on makeup",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "prompt": "Name something that comes in sevens.",
+    "answers": [
+      {
+        "text": "Dwarfs",
+        "points": 28
+      },
+      {
+        "text": "Deadly sins",
+        "points": 23
+      },
+      {
+        "text": "World wonders",
+        "points": 15
+      },
+      {
+        "text": "Days per week",
+        "points": 14
+      },
+      {
+        "text": "Seas",
+        "points": 9
+      },
+      {
+        "text": "Continents",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "prompt": "Name something you only want to do once.",
+    "answers": [
+      {
+        "text": "Die",
+        "points": 23
+      },
+      {
+        "text": "Get married",
+        "points": 16
+      },
+      {
+        "text": "Skydive",
+        "points": 14
+      },
+      {
+        "text": "Go on trip",
+        "points": 8
+      },
+      {
+        "text": "Surgery",
+        "points": 4
+      },
+      {
+        "text": "Go to jail",
+        "points": 3
+      },
+      {
+        "text": "Bungee jump",
+        "points": 3
+      }
+    ]
+  }
+]
